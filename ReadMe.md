@@ -95,9 +95,7 @@ const feranmi = {
 
 <div align="center">
 
-### 💬 A little motto I live by
-
-> _"First, solve the problem. Then, write the code."_ – John Johnson
+> _"Miles to go and promises to keep, before I sleep."_ – Robert Frost
 
 <br/>
 
